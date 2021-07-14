@@ -21,7 +21,7 @@
         <section class="contact-section padding">
             <div id="google_map">
 
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2687.2688690882073!2d8.856686015632352!3d47.65977297918819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479a88ccc73d2a37%3A0xd7589bbd3432a50d!2sRathauspl.%2023%2C%208260%20Stein%20am%20Rhein%2C%20Switzerland!5e0!3m2!1sen!2ske!4v1623643467622!5m2!1sen!2ske" width="100%" height="100%" style="border:0;" allowfullscreen="true" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7551950405264!2d36.923880615119955!3d-1.3227048360409464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f130da38a9cef%3A0xcb205fb69494ca31!2sPolygon%20Logistics%20Ltd!5e0!3m2!1sen!2ske!4v1626292756994!5m2!1sen!2ske" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
             </div>
