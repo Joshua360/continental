@@ -9,7 +9,7 @@
        
         <title>Continental Fresh Produce Limited</title>
         
-		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+		<link rel="shortcut icon" type="image/x-icon" href="img/white.svg">
 
         <!-- Font Awesome Icons CSS -->
         <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -71,7 +71,7 @@
                     <div class="bottom-content-wrap row">
                         <div class="col-sm-4">
                             <div class="site-branding">
-                                <a href="index.php"><img style="width:80px" src="img/black.svg" alt="Brand"></a>
+                                <a href="index.php"><img style="width:80px" src="img/the-logo.png" alt="Brand"></a>
                             </div>
                         </div>
                        <div class="col-sm-8 text-right">
