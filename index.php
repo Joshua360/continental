@@ -5,11 +5,11 @@
         <section class="slider-section">
             <div class="slider-wrapper">
                 <div id="main-slider" class="nivoSlider">
-                    <img src="https://images.unsplash.com/photo-1449339854873-750e6913301b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="" title="#slider-caption-1"/>
-                    <img src="https://images.unsplash.com/photo-1583029901628-8039767c7ad0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="" title="#slider-caption-2"/>
+                    <img src="./gallery/six.jpeg" alt="" title="#slider-caption-1"/>
+                    <img src="./gallery/seven.jpeg" alt="" title="#slider-caption-2"/>
                     
-                    <img src="https://images.unsplash.com/photo-1561781248-7dcf1de69caa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80" alt="">
-                    <img src="https://images.unsplash.com/photo-1550828520-4cb496926fc9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1490&q=80" alt="">
+                    <img src="./gallery/three.jpeg" alt="">
+                    <img src="./gallery/four.jpeg" alt="">
                 </div><!-- /#main-slider -->
 
                 <div id="slider-caption-1" class="nivo-html-caption slider-caption">
