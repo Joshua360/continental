@@ -5,11 +5,11 @@
         <section class="slider-section">
             <div class="slider-wrapper">
                 <div id="main-slider" class="nivoSlider">
-                    <img src="./gallery/six.jpeg" alt="" title="#slider-caption-1"/>
-                    <img src="./gallery/seven.jpeg" alt="" title="#slider-caption-2"/>
+                    <img src="./img/one.jpg" alt="" title="#slider-caption-1"/>
+                    <img src="./img/one.jpg" alt="" title="#slider-caption-2"/>
                     
-                    <img src="./gallery/three.jpeg" alt="">
-                    <img src="./gallery/four.jpeg" alt="">
+                    <img src="./img/basket.jpg" alt="">
+                    <img src="./img/basket.jpg" alt="">
                 </div><!-- /#main-slider -->
 
                 <div id="slider-caption-1" class="nivo-html-caption slider-caption">
