@@ -6,7 +6,7 @@
         <div class="pager-header">
             <div class="container">
                 <div class="page-content">
-                    <h2>Contact With Us</h2>
+                    <h2>Get in touch</h2>
                     <!-- <p>Help today because tomorrow you may be the one who <br>needs more helping!</p> -->
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
@@ -19,12 +19,7 @@
  
         
         <section class="contact-section padding">
-            <div id="google_map">
-
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7551950405264!2d36.923880615119955!3d-1.3227048360409464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f130da38a9cef%3A0xcb205fb69494ca31!2sPolygon%20Logistics%20Ltd!5e0!3m2!1sen!2ske!4v1626292756994!5m2!1sen!2ske" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-
-            </div>
+    
             
             <!-- /#google_map -->
             
